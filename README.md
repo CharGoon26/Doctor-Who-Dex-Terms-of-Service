@@ -111,7 +111,7 @@ Cross-trading is strictly forbidden for any user with no exceptions and will be 
 
 * Doctor Who Dex collects minimal user data necessary for its gameplay functionality (such as your Discord User ID, Server IDs, and timestamps). We do not share this data with third parties.
 * Do not share personal information, including passwords, addresses, or financial details, through the bot.
-* A detailed privacy policy explaining what data is collected is available at: **[LINK TO YOUR PRIVACY POLICY / GITHUB FILE]**
+* A detailed privacy policy explaining what data is collected is available at: **https://github.com/CharGoon26/Doctor-Who-Dex-Privacy-Policy**
 
 ## 6. Moderation
 
