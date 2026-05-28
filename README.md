@@ -171,5 +171,5 @@ The Doctor Who Dex moderation team retains the absolute right to accept, deny, o
 
 You may contact our development and management team using the following means:
 
-* **Official Discord Server:** **[https://discord.gg/AtdytZ5egm]**
-* **Support Contact:** **[@bigfatbrimmy and @melanutella on discord]**
+* **Official Discord Server:** **https://discord.gg/AtdytZ5egm**
+* **Support Contact:** **@bigfatbrimmy and @melanutella on discord**
